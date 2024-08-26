@@ -3,19 +3,7 @@ show databases;
 use online_food_ordering_system;
 show tables;
 
-
-
-
-
-
-
 drop table customers;
-
-
-
-
-
-
 
 -- ************************************************************************
 -- 	Write SQL statements to create all the tables with the specified columns and foreign key references.
